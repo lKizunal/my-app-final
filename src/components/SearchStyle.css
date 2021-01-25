@@ -1,0 +1,16 @@
+.styles{
+    position: absolute;
+    right: 10.5cm;
+    top: 0cm;
+}
+.label{
+    position: absolute;
+    right: 6.2cm;
+    top: 0.7cm;
+    color: #00ff40;
+}
+.select{
+position: absolute;
+right: 3.7cm;
+top: 0.7cm;
+}

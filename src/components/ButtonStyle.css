@@ -1,0 +1,26 @@
+.signupbutton{
+    color: rgb(53, 85, 190);
+    background-color: lightblue;
+    position: relative;
+    left: 0cm;
+    bottom: 10cm;
+    font-size: large;
+    
+}
+.loginbutton{
+    color: rgb(53, 85, 190);
+    background-color: lightblue;
+    position: absolute;
+    right: 6cm;
+    top: 0cm;
+    font-size: large;
+    
+}
+.links{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    position: relative;
+    
+}
